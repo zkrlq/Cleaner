@@ -1,2 +1,2 @@
-# Cleaner
- This is a simple cleanup file, which cleans useless files from the system
+# Cleaner V1.0
+## This is a simple cleaning file, which cleans useless system files, such as temporary files, %temp%, and also Prefetch, in order to make the PC faster and more optimized.
